@@ -10,3 +10,15 @@ El video debe estar en formato .webm
 
 En caso de querer habilitarlo en el arranque.
 - Contraseña para el usuario `deck`.
+
+## Instalación
+Al ser un script en python no hace falta instalar nara, solo ejecutar el programa.
+
+### Descargar
+```bash
+git clone https://github.com/Nideapum/Steam-Deck-Tools.git
+cd Steam-Deck-Tools/Startup_video
+```
+
+### Ejecutar
+`python main`
