@@ -15,10 +15,13 @@ En caso de querer habilitarlo en el arranque.
 Al ser un script en python no hace falta instalar nara, solo ejecutar el programa.
 
 ### Descargar
+En la carpeta VID hay algunos videos que podéis usar.
 ```bash
 git clone https://github.com/Nideapum/Steam-Deck-Tools.git
 cd Steam-Deck-Tools/Startup_video
 ```
 
 ### Ejecutar
-`python main`
+```bash
+python main
+```
