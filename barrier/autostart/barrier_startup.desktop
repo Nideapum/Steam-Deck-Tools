@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Barrier
+Comment=Share mouse/keyboard
+Exec=/run/media/mmcblk0p1/Steam-Deck-Tools/barrier/barrierc --disable-crypto --debug INFO -f 192.168.0.27
+Type=Application
+NoDisplay=false
+OnlyShowIn=KDE
+Keywords=kupdate-notifier;system;update;updater
