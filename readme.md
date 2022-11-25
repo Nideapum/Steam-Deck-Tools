@@ -1,14 +1,14 @@
 # Herramientas para Steam Deck
 Otros Githubs interesantes
 
-1. Info
+### Info
 - [steamdb](https://steamdb.info)
 - [EPIC free game](https://rsshub.app/epicgames/freegames/es)
 
-2. Clean
+### Clean
 - [Steam Deck: Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer)
 
-3. Customize
+### Customize
 - [Decky](https://github.com/SteamDeckHomebrew/decky-loader)
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
 
