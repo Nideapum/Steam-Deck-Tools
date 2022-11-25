@@ -6,7 +6,7 @@ Otros Githubs interesantes
 - [EPIC free game](https://rsshub.app/epicgames/freegames/es) - Juego gratis de la semana en EPIC.
 
 ### Clean
-- [Steam Deck: Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Limpiar shadercache y compactdata
+- [Steam Deck: Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Limpiar shadercache y compactdata ([Leer](https://github.com/Nideapum/Steam-Deck-Tools/blob/main/readme.md#shader-cache-killer-cleanner))
 
 ### Customize
 - [Startup_video](https://github.com/Nideapum/Steam-Deck-Tools/tree/main/Startup_video) - Permite cambiar el video de arranque.
@@ -22,7 +22,7 @@ passwd
 Introducimos la nueva contraseña
 _No cambiará nada mientras escribimos pero se estara tecleando._
 
-## Shader Cache Killer {#cleanner}
+## Shader Cache Killer
 Herramienta para hacer limpieza de los ficheros que crea steam cuando ejecuta un juego por primera vez.
 curl https://raw.githubusercontent.com/FranjeGueje/DeckTools/master/Tools/steamappsCleaner.sh | bash -s
 
