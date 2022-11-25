@@ -38,7 +38,7 @@ Después de esto habria que modificar el input del teclado en las preferencias d
 
 ## [NCDU](https://github.com/Nideapum/Steam-Deck-Tools/blob/main/Varios/ncdu_setup.sh)
 Permite ver desde el terminal el espacio utilizado por cada directorio.
-Como alternativa gráfica en el modo escritorio está ==Analizer Disk Usage==.
+Como alternativa gráfica en el modo escritorio está __Analizer Disk Usage__.
 
 ------
 
