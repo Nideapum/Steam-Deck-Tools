@@ -40,6 +40,9 @@ Después de esto habria que modificar el input del teclado en las preferencias d
 Permite ver desde el terminal el espacio utilizado por cada directorio.
 Como alternativa gráfica en el modo escritorio está __Analizer Disk Usage__.
 
+
+## [Discord Overlay](https://trigg.github.io/Discover/deckaddnonsteamgame)
+Para que aparezcan los avatares, superpuestos, de las personas que están hablando por Discord.
 ------
 
 # COMANDOS
