@@ -11,3 +11,12 @@ Otros Githubs interesantes
 ## Customize
 - [Decky](https://github.com/SteamDeckHomebrew/decky-loader)
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
+
+------
+### Establecer contrasaeña de administrador
+Entramos en konsole (Ctrl+Alt+T) y ejecutamos
+```bash
+passwd
+```
+Introducimos la nueva contraseña
+__No cambiará nada mientras escribimos pero se estara tecleando__
