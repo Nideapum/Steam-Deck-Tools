@@ -14,8 +14,8 @@ Otros Githubs interesantes
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
 
 ------
-# CONFIGURACIÓN
-## Establecer contrasaeña de administrador
+## CONFIGURACIÓN
+### Establecer contrasaeña de administrador
 Entramos en konsole (Ctrl+Alt+T) y ejecutamos
 ```bash
 passwd
@@ -23,19 +23,22 @@ passwd
 Introducimos la nueva contraseña
 _No cambiará nada mientras escribimos pero se estara tecleando._
 
-## Shader Cache Killer
+### Shader Cache Killer
 Herramienta para hacer limpieza de los ficheros que crea steam cuando ejecuta un juego por primera vez.
 También tenéis el ejecutable en [Varios]().
 ```bash
 curl https://raw.githubusercontent.com/FranjeGueje/DeckTools/master/Tools/steamappsCleaner.sh | bash -s
 ```
 
-## Idioma en Español
+### Idioma en Español
 ```bash
 curl https://raw.githubusercontent.com/Nideapum/Steam-Deck-Tools/main/Varios/deck_ES.sh | bash -s
 ```
 Después de esto habria que modificar el input del teclado en las preferencias del sistema, para que nos ubique correctamente los caracteres.
 
+## [NCDU](https://github.com/Nideapum/Steam-Deck-Tools/blob/main/Varios/ncdu_setup.sh)
+Permite ver desde el terminal el espacio utilizado por cada directorio.
+Como alternativa gráfica en el modo escritorio está ==Analizer Disk Usage==.
 
 ------
 
