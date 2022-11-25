@@ -14,6 +14,7 @@ Otros Githubs interesantes
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
 
 ------
+# CONFIGURACIÓN
 ## Establecer contrasaeña de administrador
 Entramos en konsole (Ctrl+Alt+T) y ejecutamos
 ```bash
@@ -40,5 +41,5 @@ Después de esto habria que modificar el input del teclado en las preferencias d
 
 # COMANDOS
 
-- Acceder a gaming mode
+Acceder a gaming mode
 `qdbus org.kde.Shutdown /Shutdown org.kde.Shutdown.logout`
