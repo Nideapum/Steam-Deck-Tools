@@ -42,4 +42,4 @@ Después de esto habria que modificar el input del teclado en las preferencias d
 # COMANDOS
 
 Acceder a gaming mode
-: `qdbus org.kde.Shutdown /Shutdown org.kde.Shutdown.logout`
+```qdbus org.kde.Shutdown /Shutdown org.kde.Shutdown.logout```
