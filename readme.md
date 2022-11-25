@@ -24,10 +24,21 @@ _No cambiará nada mientras escribimos pero se estara tecleando._
 
 ## Shader Cache Killer
 Herramienta para hacer limpieza de los ficheros que crea steam cuando ejecuta un juego por primera vez.
+También tenéis el ejecutable en [Varios]().
+```bash
 curl https://raw.githubusercontent.com/FranjeGueje/DeckTools/master/Tools/steamappsCleaner.sh | bash -s
+```
 
 ## Idioma en Español
 ```bash
 curl https://raw.githubusercontent.com/Nideapum/Steam-Deck-Tools/main/Varios/deck_ES.sh | bash -s
 ```
 Después de esto habria que modificar el input del teclado en las preferencias del sistema, para que nos ubique correctamente los caracteres.
+
+
+------
+
+# COMANDOS
+
+- Acceder a gaming mode
+`qdbus org.kde.Shutdown /Shutdown org.kde.Shutdown.logout`
