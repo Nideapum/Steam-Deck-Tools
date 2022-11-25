@@ -25,3 +25,4 @@ _No cambiará nada mientras escribimos pero se estara tecleando._
 ```bash
 curl https://raw.githubusercontent.com/Nideapum/Steam-Deck-Tools/main/Varios/deck_ES.sh | bash -s
 ```
+Después de esto habria que modificar el input del teclado en las preferencias del sistema, para que nos ubique correctamente los caracteres.
