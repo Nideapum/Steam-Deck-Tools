@@ -19,4 +19,4 @@ Entramos en konsole (Ctrl+Alt+T) y ejecutamos
 passwd
 ```
 Introducimos la nueva contraseña
-__No cambiará nada mientras escribimos pero se estara tecleando__
+_No cambiará nada mientras escribimos pero se estara tecleando._
