@@ -1,18 +1,19 @@
+# Herramientas para Steam Deck
 Otros Githubs interesantes
 
-# Info
-- [steamdb](https://steamdb.info)
-- [EPIC free game](https://rsshub.app/epicgames/freegames/es)
+- Info
+-- [steamdb](https://steamdb.info)
+-- [EPIC free game](https://rsshub.app/epicgames/freegames/es)
 
-# Clean
+## Clean
 - [Steam Deck: Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer)
 
-# Customize
+## Customize
 - [Decky](https://github.com/SteamDeckHomebrew/decky-loader)
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
 
 ------
-# Establecer contrasaeña de administrador
+## Establecer contrasaeña de administrador
 Entramos en konsole (Ctrl+Alt+T) y ejecutamos
 ```bash
 passwd
@@ -20,7 +21,7 @@ passwd
 Introducimos la nueva contraseña
 _No cambiará nada mientras escribimos pero se estara tecleando._
 
-# Idioma en Español
+## Idioma en Español
 ```bash
 curl https://raw.githubusercontent.com/Nideapum/Steam-Deck-Tools/main/Varios/deck_ES.sh | bash -s
 ```
