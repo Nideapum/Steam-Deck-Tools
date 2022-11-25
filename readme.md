@@ -2,14 +2,15 @@
 Otros Githubs interesantes
 
 ### Info
-- [steamdb](https://steamdb.info)
-- [EPIC free game](https://rsshub.app/epicgames/freegames/es)
+- [steamdb](https://steamdb.info) - Consultar Protones
+- [EPIC free game](https://rsshub.app/epicgames/freegames/es) - Juego gratis de la semana en EPIC.
 
 ### Clean
-- [Steam Deck: Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer)
+- [Steam Deck: Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Limpiar shadercache y compactdata
 
 ### Customize
-- [Decky](https://github.com/SteamDeckHomebrew/decky-loader)
+- [Startup_video](https://github.com/Nideapum/Steam-Deck-Tools/tree/main/Startup_video) - Permite cambiar el video de arranque.
+- [Decky](https://github.com/SteamDeckHomebrew/decky-loader) - Plugins
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
 
 ------
