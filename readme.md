@@ -13,10 +13,15 @@ Otros Githubs interesantes
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
 
 ------
-### Establecer contrasaeña de administrador
+## Establecer contrasaeña de administrador
 Entramos en konsole (Ctrl+Alt+T) y ejecutamos
 ```bash
 passwd
 ```
 Introducimos la nueva contraseña
 _No cambiará nada mientras escribimos pero se estara tecleando._
+
+## Idioma en Español
+```bash
+curl https://raw.githubusercontent.com/Nideapum/Steam-Deck-Tools/main/Varios/deck_ES.sh | bash -s
+```
