@@ -2,7 +2,8 @@
 Otros Githubs interesantes
 
 ### Info
-- [steamdb](https://steamdb.info) - Consultar Protones.
+· [steamdb](https://steamdb.info/) - Consultar juegos de steam.
+· [protondb](https://www.protondb.com/) - Consultar proton.
 - [steamdeckkhq](https://steamdeckhq.com/game-settings/) - Configuraciones para los juegos.
 - [EPIC free game](https://rsshub.app/epicgames/freegames/es) - Juego gratis de la semana en EPIC.
 
