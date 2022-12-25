@@ -2,10 +2,11 @@
 Otros Githubs interesantes
 
 ### Info
-· [steamdb](https://steamdb.info/) - Consultar juegos de steam.
-· [protondb](https://www.protondb.com/) - Consultar proton.
+- [steamdb](https://steamdb.info/) - Consultar juegos de steam.
+- [protondb](https://www.protondb.com/) - Consultar proton.
 - [steamdeckkhq](https://steamdeckhq.com/game-settings/) - Configuraciones para los juegos.
 - [EPIC free game](https://rsshub.app/epicgames/freegames/es) - Juego gratis de la semana en EPIC.
+- [Repuestos](https://www.ifixit.com/Parts/Steam_Deck) - Comprar piezas de repuesto.
 
 ### Clean
 - [Steam Deck: Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Limpiar shadercache y compactdata ([Leer](https://github.com/Nideapum/Steam-Deck-Tools/blob/main/readme.md#shader-cache-killer-cleanner))
